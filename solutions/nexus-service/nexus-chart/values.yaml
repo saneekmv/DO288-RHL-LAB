@@ -1,0 +1,7 @@
+# Default values for nexus-chart.
+# This is a YAML-formatted file.
+
+nexusServiceName: nexus3
+hostname: nexus3-vtfwnu.apps.ap46.prod.nextcle.com
+imageName: quay.io/saneevishwakarma/nexus3:latest
+memoryLimit: 2703Mi
